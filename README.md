@@ -9,9 +9,9 @@ SYNTAX:
 * This is text ,,,*italic and underlined*,,,.
 
 HTML RESULT:
-* This is text <u>that is underlined</u>.
-* This is text <u><strong>bold and underlined</strong></u>.
-* This is text <u><em>italic and underlined</em></u>.
+* This is text `<u>that is underlined</u>`.
+* This is text `<u><strong>bold and underlined</strong></u>`.
+* This is text `<u><em>italic and underlined</em></u>`.
 
 INSTALLATION (Astro 7.x):
 ```javascript
